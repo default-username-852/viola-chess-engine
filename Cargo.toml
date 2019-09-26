@@ -1,0 +1,11 @@
+[package]
+name = "engine"
+version = "0.1.0"
+authors = ["violaso"]
+edition = "2018"
+
+# [lib]
+# name = "_chess_engine"
+# crate-type = ["dylib"]
+
+[dependencies]
